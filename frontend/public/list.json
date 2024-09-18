@@ -1,0 +1,109 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "A timeless novel exploring racial injustice and moral growth in the American South through the eyes of young Scout Finch.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726373042~exp=1726376642~hmac=99aaaa34131d383b3713dc1606e34688025dc333a8028365b453ae0426b05399&w=1060"
+  },
+
+  {
+    "id": 2,
+    "name": "Comedy Book",
+    "title": "A dystopian tale of totalitarianism, surveillance, and the loss of individuality in a repressive future society.",
+    "price": 20,
+    "category": "Entertainment",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726373042~exp=1726376642~hmac=99aaaa34131d383b3713dc1606e34688025dc333a8028365b453ae0426b05399&w=1060"
+  },
+
+  {
+    "id": 3,
+    "name": "Love Book",
+    "title": "A tragic story of love, wealth, and the American Dream, set in the glamorous world of 1920s New York.",
+    "price": 70,
+    "category": "Drama",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726373042~exp=1726376642~hmac=99aaaa34131d383b3713dc1606e34688025dc333a8028365b453ae0426b05399&w=1060"
+  },
+
+  {
+    "id": 4,
+    "name": "Story Book",
+    "title": "A dystopian tale of totalitarianism, surveillance, and the loss of individuality in a repressive future society.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726373042~exp=1726376642~hmac=99aaaa34131d383b3713dc1606e34688025dc333a8028365b453ae0426b05399&w=1060"
+  },
+
+  {
+    "id": 5,
+    "name": "Story Book",
+    "title": "A dystopian tale of totalitarianism, surveillance, and the loss of individuality in a repressive future society.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726373042~exp=1726376642~hmac=99aaaa34131d383b3713dc1606e34688025dc333a8028365b453ae0426b05399&w=1060"
+  },
+
+  {
+    "id": 6,
+    "name": "Story Book",
+    "title": "A dystopian tale of totalitarianism, surveillance, and the loss of individuality in a repressive future society.",
+    "price": 30,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726373042~exp=1726376642~hmac=99aaaa34131d383b3713dc1606e34688025dc333a8028365b453ae0426b05399&w=1060"
+  },
+
+  {
+    "id": 7,
+    "name": "Story Book",
+    "title": "A dystopian tale of totalitarianism, surveillance, and the loss of individuality in a repressive future society.",
+    "price": 0,
+    "category": "Sports",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726373042~exp=1726376642~hmac=99aaaa34131d383b3713dc1606e34688025dc333a8028365b453ae0426b05399&w=1060"
+  },
+
+  {
+    "id": 8,
+    "name": "Story Book",
+    "title": "A dystopian tale of totalitarianism, surveillance, and the loss of individuality in a repressive future society.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726373042~exp=1726376642~hmac=99aaaa34131d383b3713dc1606e34688025dc333a8028365b453ae0426b05399&w=1060"
+  },
+
+  {
+    "id": 9,
+    "name": "Story Book",
+    "title": "A dystopian tale of totalitarianism, surveillance, and the loss of individuality in a repressive future society.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726373042~exp=1726376642~hmac=99aaaa34131d383b3713dc1606e34688025dc333a8028365b453ae0426b05399&w=1060"
+  },
+
+  {
+    "id": 10,
+    "name": "Story Book",
+    "title": "A dystopian tale of totalitarianism, surveillance, and the loss of individuality in a repressive future society.",
+    "price": 0,
+    "category": "War",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726373042~exp=1726376642~hmac=99aaaa34131d383b3713dc1606e34688025dc333a8028365b453ae0426b05399&w=1060"
+  },
+
+  {
+    "id": 11,
+    "name": "Story Book",
+    "title": "A dystopian tale of totalitarianism, surveillance, and the loss of individuality in a repressive future society.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726373042~exp=1726376642~hmac=99aaaa34131d383b3713dc1606e34688025dc333a8028365b453ae0426b05399&w=1060"
+  },
+
+  {
+    "id": 12,
+    "name": "Story Book",
+    "title": "A dystopian tale of totalitarianism, surveillance, and the loss of individuality in a repressive future society.",
+    "price": 35,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726373042~exp=1726376642~hmac=99aaaa34131d383b3713dc1606e34688025dc333a8028365b453ae0426b05399&w=1060"
+  }
+]
