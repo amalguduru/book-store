@@ -1,7 +1,10 @@
 import { useEffect, useState } from "react";
 import Login from "./Login";
+import Logout from "./Logout";
+import { useAuth } from "../context/AuthProvider";
 
 function Navbar() {
+  const [authUser, setAuthUser] = useAuth();
   const [sticky, setSticky] = useState(false);
 
   useEffect(() => {
@@ -93,15 +96,22 @@ function Navbar() {
               </svg>
             </label>
           </div>
-          <div>
-            <a
-              className="btn hover:bg-slate-400 duration-300 cursor-pointer hover:text-black"
-              onClick={() => document.getElementById("my_modal_3").showModal()}
-            >
-              Login
-            </a>
-            <Login />
-          </div>
+
+          {authUser ? (
+            <Logout />
+          ) : (
+            <div>
+              <a
+                className="btn hover:bg-slate-400 duration-300 cursor-pointer hover:text-black"
+                onClick={() =>
+                  document.getElementById("my_modal_3").showModal()
+                }
+              >
+                Login
+              </a>
+              <Login />
+            </div>
+          )}
         </div>
       </div>
     </div>
